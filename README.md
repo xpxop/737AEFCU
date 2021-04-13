@@ -3,6 +3,8 @@ XPlane 11 Plugin for the b737 zibo mod
 
 Version: 2021.4.1-alpha
 
+my COPYRIGHT but FREE to use - I will never charge for this!
+
 ## What works or should work
 
 * AP follow - stick follows yoke movement during AP (CMD A/B) on
