@@ -24,7 +24,7 @@ Version: 2021.4.1-alpha
 
 ## Install
 
-extract zip to ZIBO_MOD_FOLDER/plugins so that you have a zz737AEFCU folder inside plugins
+extract zip to X-Plane 11\Aircraft\Extra Aircraft\B737-800X\plugins so that you have a zz737AEFCU folder inside plugins
 
 ## Config
 
