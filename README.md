@@ -13,6 +13,7 @@ Version: 2021.4.1-alpha
 
 ## Not yet implemented
 
+* Linux (maybe) & OSX (probably never) support
 * Elevator droop on Hydraulics off - is that a thing in the 737?
 * airspeed relative forces - probably next in line
 * Stall control force modulation
