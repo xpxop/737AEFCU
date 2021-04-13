@@ -7,7 +7,7 @@ FREE to use in XPlane 11 with the zibo mod
 
 ## Download
 
-https://github.com/xpxop/737AEFCU/releases
+Latest: https://github.com/xpxop/737AEFCU/releases/download/v2021.4.1-alpha/zz737AEFCU.zip
 
 ## What works or should work
 
