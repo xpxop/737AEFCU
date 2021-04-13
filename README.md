@@ -3,7 +3,7 @@ XPlane 11 Plugin for the b737 zibo mod
 
 Version: 2021.4.1-alpha
 
-FREE to use in XPlane 11 with the zibo mod - I will never charge for this!
+FREE to use in XPlane 11 with the zibo mod
 
 ## What works or should work
 
