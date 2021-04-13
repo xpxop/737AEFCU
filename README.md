@@ -5,6 +5,10 @@ Version: 2021.4.1-alpha
 
 FREE to use in XPlane 11 with the zibo mod
 
+## Download
+
+https://github.com/xpxop/737AEFCU/releases
+
 ## What works or should work
 
 * AP follow - stick follows yoke movement during AP (CMD A/B) on
