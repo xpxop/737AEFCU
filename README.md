@@ -66,7 +66,7 @@ stall_shaker_force_double=0.5 <- same as for aileron
 
 ## Remarks
 
-* tested this version with XP11.5 and zibo .16 and an MS Sidewinder 2 FF
+* tested this version with XP11.5 and zibo .16, .21 and an MS Sidewinder 2 FF
 * force do not mix super well on the sidewinder - I build in some proctection to avoid a "resonance catastrophe" but if you experience wild shaking tune down the damper force
 * you need to tape over the "hand-detection-LED" on the Sidewinder otherwise the AP follow won't work
 * The plugin indepentently disconnects the AP (via cpt-ap-disco btn trigger) when offset between stick pos in RL and sim > ap_disco_offset_double 
