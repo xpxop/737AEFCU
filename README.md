@@ -57,7 +57,7 @@ elevator_max_force_double=1.0 <- same as for aileron
 
 damper_max_force_double=0.6 <- same as for aileron
 
-ap_disco_offset_double=0.2 <- set between 0.1 (very sensitive) - 1.0 (practically off)
+ap_disco_offset_double=0.2 <- set between 0.1 (very sensitive) - 1.0 (practically off) REMARK: this feature is currently deactivated due to an unfixed bug 
 
 stall_shaker_force_double=0.5 <- same as for aileron
 
