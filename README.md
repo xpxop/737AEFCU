@@ -1,7 +1,7 @@
 # 737AEFCU
 XPlane 11 Plugin for the b737 zibo mod
 
-Version: 2021.4.1-alpha
+Version: 2021.4.2-alpha
 
 FREE to use in XPlane 11 with the zibo mod
 
